@@ -22,13 +22,13 @@
     "Extension Packs"
   ],
   "activationEvents": [
-    "onCommand:jsonpathhighlighter.helloWorld"
+    "onCommand:jsonpathhighlighter.jsonpathquery"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "jsonpathhighlighter.helloWorld",
+        "command": "jsonpathhighlighter.jsonpathquery",
         "title": "JSON Path Highlighter"
       }
     ]
