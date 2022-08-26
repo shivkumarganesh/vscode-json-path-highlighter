@@ -20,7 +20,7 @@ Press `⌘Cmd  +  ↑Shift  +  P` in order to get the command menu. Select **JSO
 
 ## Usage Video
 Please watch the video below to understand the installation and usage of the extension.
-![enter image description here](./media/extension_installation_usage)
+![enter image description here](./media/extension_installation_usage.gif)
 
 ## Implementation Plan
 
