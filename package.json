@@ -1,15 +1,25 @@
 {
   "name": "jsonpathhighlighter",
-  "displayName": "Json Path Highlighter",
-  "description": "",
-  "version": "0.0.41",
+  "displayName": "JSON Path Highlighter",
+  "description": "This VSCode plugin assists in finding the value any json string path. Can be used in Translation and Configuration JSON Files.",
+  "version": "0.0.7",
   "publisher": "ShivKumarGanesh",
   "icon": "icon.png",
+  "homepage": "https://github.com/shivkumarganesh/vscode-json-path-highlighter",
+  "bugs": {
+    "url": "https://github.com/shivkumarganesh/vscode-json-path-highlighter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivkumarganesh/vscode-json-path-highlighter"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Programming Languages",
+    "Extension Packs"
   ],
   "activationEvents": [
     "onCommand:jsonpathhighlighter.helloWorld"
