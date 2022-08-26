@@ -1,6 +1,6 @@
 # JSON Path Query & Highlighter
 
-![JSON Path Query & Highlighter](./icon.png)
+![JSON Path Query & Highlighter](./media/icon.png)
 
 ## Introduction
 JSON Path highlighter is a command based extension and is intended to find various sequence of strings from a JSON file. This is mostly targetted towards configuration or translation files. Provided a string path this extension gets the value that exists on that path and shows in a success banner.
