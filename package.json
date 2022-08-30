@@ -9,6 +9,24 @@
   "bugs": {
     "url": "https://github.com/shivkumarganesh/vscode-json-path-highlighter/issues"
   },
+  "keywords": [
+    "json",
+    "web",
+    "typescript",
+    "javascript",
+    "js",
+    "reactjs",
+    "react",
+    "angular",
+    "angularjs",
+    "path",
+    "query",
+    "query string",
+    "i18n",
+    "i18next",
+    "keybindings",
+    "util"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/shivkumarganesh/vscode-json-path-highlighter"
